@@ -1,8 +1,8 @@
 Title: Videos – I love(d)
 Slug: videos-i-loved
-Date: 2014-12-21 10:43  
-Category: general  
-Tags: photography, python, video, tutorials  
+Date: 2014-12-21 10:43
+Category: general
+Tags: photography, python, video, tutorials
 Summary: An ever growing collection of video that I love or loved watching.
 
 ### Photography
